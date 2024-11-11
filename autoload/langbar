@@ -64,6 +64,7 @@
 ¨ each
 ⍨ switch
 ⍣ power
+⍛ behind
 . inner product
 ∘ outer product
 ⍤ rank
